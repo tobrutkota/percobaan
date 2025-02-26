@@ -10,5 +10,5 @@ do
 
     echo "🛑 Istirahat 10 menit..."
     kill $MINER_PID  # Hentikan miner
-    sleep 600  # Istirahat 10 menit
+    sleep 1200  # Istirahat 10 menit
 done
